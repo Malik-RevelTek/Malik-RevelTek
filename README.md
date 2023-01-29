@@ -33,16 +33,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-reveltek&label=Profile%20views&color=0e75b6&style=flat" alt="malik-reveltek" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malik-reveltek" alt="malik-reveltek" /></a> </p>
 
-┌──┤ SOCIAL 🎯 ├─────────▰▰▰
-│
-│ ➡ How to reach me on social media:
-│
-├─◈ <a href="https://twitter.com/nomanmalik44">Twitter 🤝</a>
-├─◈ <a href="https://www.youtube.com">YouTube 🤝</a>
-├─◈ <a href="https://t.me/nomimalik62">Instagram 🤝</a>
-├─◈ <a href="https://www.linkedin.com/in/malik-noman-a7816b251">LinkedIn 🤝</a>
-│
-└───────────────────────────────▰▰▰
+
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/02/giphy-24.gif">
 ┌──┤ PROJECTS 🗼 ├───────▰▰▰
 │
@@ -65,6 +56,23 @@
 ├─◈ <a href="https://www.ammarforte.com/wp-content/uploads/2022/12/main-1.png">BRANDS VILLAGE QUETTA 🏳</a>
 │
 └───────────────────────────────▰▰▰
+
+
+
+┌──┤ SOCIAL 🎯 ├─────────▰▰▰
+│
+│ ➡ How to reach me on social media:
+│
+├─◈ <a href="https://twitter.com/nomanmalik44">Twitter 🤝</a>
+├─◈ <a href="https://www.youtube.com">YouTube 🤝</a>
+├─◈ <a href="https://t.me/nomimalik62">Instagram 🤝</a>
+├─◈ <a href="https://www.linkedin.com/in/malik-noman-a7816b251">LinkedIn 🤝</a>
+│
+└───────────────────────────────▰▰▰
+
+
+
+
 </pre>
 
 
