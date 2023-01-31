@@ -16,6 +16,8 @@
 
 
 
+
+     ◥◣★◢◤
 ┌──┤ WHOAMI 🗽├─────────▰▰▰
 │
 │
@@ -34,7 +36,9 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/02/giphy-24.gif">
-┌──┤ PROJECTS 🗼 ├───────▰▰▰
+
+     ◥◣◣★◢◢◤
+┌──┤ PROJECTS 🗼├───────▰▰▰
 │
 │ ➡ Worked on MEP In these Projects With RevelTek 🌠:
 │  
@@ -57,7 +61,7 @@
 └───────────────────────────────▰▰▰
 
 
-
+     ◥◣★◢◤
 ┌──┤ SOCIAL 🎯 ├─────────▰▰▰
 │
 │ ➡ How to reach me on social media:
@@ -96,7 +100,11 @@
 
 
 
-
+    ◥▔◣◢☬◣◈◢☬◣◢▔◤
+           ⚀◈ALLAH◈⚀
+ ★Guide us to the straight path❍★
+         ⚀◈Al-Fatiha 6◈⚀
+     ◢▂◤◥☬◤◈◥☬◤◥▂◣
 
 
 
