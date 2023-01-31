@@ -31,7 +31,7 @@
 │
 └───────────────────────────────▰▰▰
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-reveltek&label=Profile%20views&color=0e75b6&style=flat" alt="malik-reveltek" /> </p>
+ ★★★★★★★★★★<p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-reveltek&label=Profile%20views&color=0e75b6&style=flat" alt="malik-reveltek" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malik-reveltek" alt="malik-reveltek" /></a> </p>
 
 
@@ -98,14 +98,17 @@
 
 
 
+      ◥▔◣◢☬◣◈◢☬◣◢▔◤
+           ⚀◈Quran◈⚀
+    ★Do not lose hope nor be sad❍★
+           ⚀◈3:139◈⚀
+       ◢▂◤◥☬◤◈◥☬◤◥▂◣
 
 
-    ◥▔◣◢☬◣◈◢☬◣◢▔◤
-           ⚀◈ALLAH◈⚀
- ★Guide us to the straight path❍★
-         ⚀◈Al-Fatiha 6◈⚀
-     ◢▂◤◥☬◤◈◥☬◤◥▂◣
 
+
+
+    
 
 
 <!---
