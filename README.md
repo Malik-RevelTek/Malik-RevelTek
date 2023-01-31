@@ -63,13 +63,13 @@
 │ ➡ How to reach me on social media:
 │
 ├─◈ <a href="https://twitter.com/nomanmalik44">Twitter 🤝</a>
-├─◈ <a href="https://www.youtube.com">YouTube 🤝</a>
+├─◈ <a href="https://www.facebook.com/malik.nomi.73307634/">Facebook🤝</a>
 ├─◈ <a href="https://t.me/nomimalik62">Instagram 🤝</a>
 ├─◈ <a href="https://www.linkedin.com/in/malik-noman-a7816b251">LinkedIn 🤝</a>
 │
 │
-│<a href="https://twitter.com/nomanmalik44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomanmalik44" height="30" width="40" /></a><a href="https://linkedin.com/in/malik-noman-a7816b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik-noman-a7816b251" height="30" width="40" /></a><a href="https://www.facebook.com/malik.nomi.73307634/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nomi Malik" height="30" width="40" /></a><a href="https://instagram.com/nomimalik62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nomimalik62" height="30" width="40" /></a>
-│</p>
+│──────◈ <a href="https://twitter.com/nomanmalik44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomanmalik44" height="30" width="40" /></a><a href="https://linkedin.com/in/malik-noman-a7816b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik-noman-a7816b251" height="30" width="40" /></a><a href="https://www.facebook.com/malik.nomi.73307634/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nomi Malik" height="30" width="40" /></a><a href="https://instagram.com/nomimalik62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nomimalik62" height="30" width="40" /></a></p>
+│
 └───────────────────────────────▰▰▰
 
 
