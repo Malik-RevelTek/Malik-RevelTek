@@ -98,11 +98,11 @@
 
 
 
-      ◥▔◣◢☬◣◈◢☬◣◢▔◤
-           ⚀◈Quran◈⚀
-    ★Do not lose hope nor be sad❍★
-           ⚀◈3:139◈⚀
-       ◢▂◤◥☬◤◈◥☬◤◥▂◣
+         ◥▔◣◢☬◣◈◢☬◣◢▔◤
+              ⚀◈Quran◈⚀
+    ★My Lord! Increase me in knowledge❍★
+            ⚀◈Taha-114◈⚀
+         ◢▂◤◥☬◤◈◥☬◤◥▂◣
 
 
 
